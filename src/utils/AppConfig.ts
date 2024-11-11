@@ -1,6 +1,6 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Nextjs Starter',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
-  locale: 'en',
+  site_name: 'Mon conseiller patrimonial',
+  title: 'Simulez votre investissement',
+  description: 'Des solutions adaptées à vos objectifs',
+  locale: 'fr',
 };
